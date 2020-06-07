@@ -38,7 +38,7 @@ ele vai abrir na porta -> [localhost:3000](http://localhost:3000/)
 ### Imagens
 
 > Tela de login
-![](https://imgur.com/nxCeOOV)
+![](https://imgur.com/nxCeOOV.jpg)
 
 
 ## Referências
