@@ -1,8 +1,8 @@
-<h1 align="center">Ecoleta Rocket Seat</h1>
+<h1 align="center">Ecoleta RocketSeat</h1>
 
 Esse repo é uma uma plataforma de cadastro de pontos de coleta de recicláveis e bacno de dados sqlite3 integrado, uma série de 5 videos da [RocketSeat](https://rocketseat.com.br/) com alguns updates meus =D
 
-<h3 align="center">Meu LinkedIn [4lex](https://www.linkedin.com/in/4lex/)</h3>
+<h3 align="center">Meu LinkedIn</h3>[Alex](https://www.linkedin.com/in/4lex/)
 
 ## Como rodar a aplicação
 
